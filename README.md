@@ -1,8 +1,14 @@
-# React + Vite
+# Sticky Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based sticky notes application that allows users to create, edit, and organize colorful notes on a virtual board.
 
-Currently, two official plugins are available:
+![Sticky Notes App Screenshot](./public/screenshot.png) *(Note: You'll need to add your own screenshot)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- ✅ Create multiple sticky notes with a single click
+- 🖱️ Drag and drop notes to position them anywhere on the board
+- ✏️ Edit note content directly
+- 🎨 Each note gets a random pastel color from a predefined palette
+- 💾 Persistent notes (though currently only in-memory - refreshes will clear them)
+
