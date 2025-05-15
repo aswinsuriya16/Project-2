@@ -2,8 +2,6 @@
 
 A simple React-based sticky notes application that allows users to create, edit, and organize colorful notes on a virtual board.
 
-![Sticky Notes App Screenshot](./public/screenshot.png) *(Note: You'll need to add your own screenshot)*
-
 ## Features
 
 - ✅ Create multiple sticky notes with a single click
